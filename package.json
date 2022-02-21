@@ -1,0 +1,34 @@
+{
+  "name": "mix-json-group",
+  "version": "1.0.0",
+  "description": "Group json files content of same name into a single file with that name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmovi/mix-json-group.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "json",
+    "group",
+    "locale",
+    "language",
+    "vue",
+    "react",
+    "angular"
+  ],
+  "author": "Mustafa Darwish (dr.mustafa.darwish@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drmovi/mix-json-group/issues"
+  },
+  "homepage": "https://github.com/drmovi/mix-json-group#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.43",
+    "merge-json-group-by-file-name-webpack-plugin": "^1.0.2"
+  }
+}
